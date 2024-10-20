@@ -2,6 +2,4 @@ for LF to CRLF warnings, use the following command on git cmd
 > git config --global core.autocrlf false
 
 
-**Intro:**
-
 This project was part of my Data Management Systems Design course (CS 631)
